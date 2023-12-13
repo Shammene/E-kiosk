@@ -1,6 +1,5 @@
-# E-MUNAKAHAT
-ONLINE MARRIAGE MANAGEMENT SYSTEM FOR PAHANG STATE GOVERNMENT
-
+# E-KIOSK
+ONLINE KIOSK MANAGEMENT SYSTEM
 
 ## Install
 
@@ -49,10 +48,6 @@ Developed and Deployed using Visual Studio Code, Laragon, Heidi SQL, Github.
 
 
 ## Authors
-- [@Amir](https://github.com/amir1611)
-- [@Chua](https://github.com/chua01)
-- [@Sufian](https://github.com/pianburp)
-- [@Alia](https://github.com/NikAlia910)
 - [@Sharmaine](https://github.com/Shammene)
 
 ## Documentation
