@@ -49,6 +49,8 @@ Developed and Deployed using Visual Studio Code, Laragon, Heidi SQL, Github.
 
 ## Authors
 - [@Sharmaine](https://github.com/Shammene)
+- [@AimanZiyadi](https://github.com/AimanZiyadi)
+- [@Deee179](https://github.com/Deee179)
 
 ## Documentation
  - [Laravel](https://laravel.com/docs/10.x)
